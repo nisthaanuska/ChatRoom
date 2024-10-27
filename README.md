@@ -33,11 +33,11 @@ To run this project locally, follow these steps:
 2. Replace the portion of firebase configuration with your own firebase configuration in (app.js)
    
 3. Run npm install in your terminal from root directory
- ```bash
- npm install
+   ```bash
+   npm install
 
  5. Run npm start in your terminal from root directory to start the application
- ```bash
- npm start
+   ```bash
+   npm start
 
    
