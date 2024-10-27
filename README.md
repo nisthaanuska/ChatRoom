@@ -28,4 +28,19 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/chat-room-app.git
+   git clone https://github.com/nisthaanuska/chatRoom.git
+
+
+2. Replace the portion of firebase configuration with your own firebase configuration in (app.js)
+   
+4. Run npm install in your terminal from root directory
+   
+ ```bash
+   npm install
+
+ 5. Run npm start in your terminal from root directory to start the application
+   
+ ```bash
+   npm start
+
+   
