@@ -36,8 +36,20 @@ To run this project locally, follow these steps:
    ```bash
    npm install
 
- 5. Run npm start in your terminal from root directory to start the application
+4. Run npm start in your terminal from root directory to start the application
    ```bash
    npm start
 
-   
+## Glimpses of the Project
+### SignIn Component
+![image](https://github.com/user-attachments/assets/fe7b04e5-fa8f-49ee-8c52-74afcd74ef07)
+### Chat Room
+![image](https://github.com/user-attachments/assets/2ed1a838-e0c4-4834-a0d7-b09ddca1a772)
+### Header & Sign Out
+![image](https://github.com/user-attachments/assets/569ea177-3967-409f-ab3c-704fdddb99a9)
+### Message Box
+![image](https://github.com/user-attachments/assets/0d6f695c-28e8-4085-804d-8bc17d028ae7)
+### Send Message Box and Send Icon
+![image](https://github.com/user-attachments/assets/347ad988-d8c1-422b-80a9-5bd9a7987d9e)
+
+
